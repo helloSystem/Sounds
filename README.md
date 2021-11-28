@@ -1,6 +1,8 @@
 # Sounds
-System sounds used in helloSystem
 
+System sounds used in helloSystem.
+
+Composed sounds have editable `.mscz` sources for [MuseScore](https://musescore.org/).
 
 ## Music
 
